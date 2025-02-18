@@ -22,14 +22,14 @@
 
 }
 
-.login-popup-title{
+.login-popup-signup{
     display: flex;
     justify-content: space-between;
     align-items: center;
     color: black;
 }
 
-.login-popup-title img{
+.login-popup-singup img{
     width: 16px;
     cursor: pointer;
 }
@@ -73,3 +73,4 @@
     font-weight: 500;
     cursor: pointer;
 }
+
