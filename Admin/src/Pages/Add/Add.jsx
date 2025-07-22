@@ -74,7 +74,7 @@ const Add = () => {
                         <option value="Pure Veg">Pure Veg</option>
                         <option value="Noodles">Noodles</option>
                         <option value="Cake">Cake</option>
-                        <option value="Desserts">Desserts</option>
+                        <option value="Deserts">Deserts</option>
                     </select>
                 </div>
                 <div className="add-price flex-col">
